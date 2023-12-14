@@ -2,4 +2,4 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Maybe I should start with a base on Venus.
-A newly edited text on local repository
+we removed the conflict line
